@@ -369,7 +369,7 @@ void f3_launcher::startFix()
     }
     else
     {
-        size = report.ActualFree; // Assign the string, not its length
+        size = report.ActualFree;
         blockSize = report.BlockSize;
     }
 

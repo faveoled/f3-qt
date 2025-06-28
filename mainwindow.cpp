@@ -2,7 +2,7 @@
 #include "ui_mainwindow.h"
 #include "helpwindow.h"
 #include <QtGui/QScreen>
-#include <QGuiApplication> // For QGuiApplication::primaryScreen()
+#include <QGuiApplication>
 #include <QtWidgets/QMessageBox>
 #include <QtWidgets/QFileDialog>
 #include <QtGui/QCloseEvent>

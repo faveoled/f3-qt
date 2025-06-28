@@ -2,8 +2,6 @@
 #define HELPWINDOW_H
 
 #include <QtWidgets/QDialog>
-// QAbstractButton is likely included by QDialog or ui_helpwindow.h
-// #include <QtWidgets/QAbstractButton>
 
 namespace Ui {
 class HelpWindow;
